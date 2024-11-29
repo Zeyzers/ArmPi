@@ -20,7 +20,7 @@ ArmPi is a portable Raspberry Pi-powered device designed to be worn on the arm, 
 
 ## License
 
-This project is licensed under the [MIT License](LICENSE). Feel free to use, modify, and distribute it, but please credit the original creator!
+This project is licensed under the [GPL License](LICENSE). Feel free to use, modify, and distribute it, but please credit the original creator!
 
 ## Contact
 
